@@ -1,2 +1,2 @@
 # tarea-fundamentos
-Repositorio con la primera tarea de fundamentos
+Para abrir el repo en colab hacer lo siguiente: 
