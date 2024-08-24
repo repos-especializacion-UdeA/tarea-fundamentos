@@ -1,3 +1,3 @@
-# tarea-fundamentos
+# Tarea fundamentos
 
-Ya tiene boton para correr en colab
+Repo con la tarea y ensayos hechos para ver si le cogiamos el tiro.
